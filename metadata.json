@@ -1,0 +1,6 @@
+{
+  "name": "Klaviatura & MonkeyType - Erkin Yozish Klaviaturasi",
+  "description": "Haqiqiy klaviatura tugmalari bosilishini ekranda ko'rsatuvchi interaktiv Monkeytype uslubidagi erkin yozish va tezlik o'lchash platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
